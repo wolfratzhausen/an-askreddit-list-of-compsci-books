@@ -43,8 +43,8 @@ Websites and online resources:
 
 [this teaches you to build a modern computer from first principles.](https://www.coursera.org/learn/build-a-computer)
 
-http://home.netcom.com/~tjensen/ptr/pointers.htm [introduces pointers to beginning programmers in the C programming language]
+[introduces pointers to beginning programmers in the C programming language](http://home.netcom.com/~tjensen/ptr/pointers.htm)
 
- [And this.](https://skilldrick.github.io/easy6502/) 6502 is what old consoles ran on. After you assemble you can click the disassemble or hexdump button to see the difference between `lda #$01` and `lda $01`!
+ [And this.](https://skilldrick.github.io/easy6502/) 6502 assembly language is what old consoles ran on. After you assemble you can click the disassemble or hexdump button to see the difference between `lda #$01` and `lda $01`!
 
 
